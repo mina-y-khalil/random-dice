@@ -14,5 +14,5 @@ Each refresh rolls a new dice for **Player 1** and **Player 2** — simple, fast
 
 ## 🤝 It's a Draw
 <p align="center">
-  <img src="hthttps://redeem-innovations.com/wp-content/uploads/2025/08/random-dice-draw.png" alt="Draw" />
+  <img src="https://redeem-innovations.com/wp-content/uploads/2025/08/random-dice-draw.png" alt="Draw" />
 </p>
