@@ -44,3 +44,18 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+button {
+  background-color: #4ECCA3;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  color: #232931;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+  font-family: 'Lobster', cursive;
+  display: block;      
+  margin: 20px auto;    
+}

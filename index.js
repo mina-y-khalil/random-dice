@@ -15,9 +15,14 @@ player2_dice.setAttribute("src", "./images" + "/dice" + randomNumber2 + ".png")
 
 // set the winner
 if (randomNumber1 > randomNumber2) {
-  document.querySelector("h1").innerHTML = "🚩 Player 1 Wins!";
+  document.querySelector("#result").innerHTML = "🚩 Player 1 Wins!";
+  document.querySelector("button").innerHTML = "Roll Again 🎲";
 } else if (randomNumber2 > randomNumber1) {
-  document.querySelector("h1").innerHTML = "Player 2 Wins! 🚩";
+  document.querySelector("#result").innerHTML = "Player 2 Wins! 🚩";
+  document.querySelector("button").innerHTML = "Roll Again 🎲";
+
 } else {
-  document.querySelector("h1").innerHTML = "It's a Draw!";
+  document.querySelector("#result").innerHTML = "It's a Draw!";
+  document.querySelector("button").innerHTML = "Roll Again 🎲";
+
 }
