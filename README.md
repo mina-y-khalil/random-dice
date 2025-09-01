@@ -1,5 +1,8 @@
 # 🎲 Random Dice Game
 
+## 🔗 Live Demo  
+👉 [Click here to play the game](https://mina-y-khalil.github.io/random-dice/)  
+
 Each refresh rolls a new dice for **Player 1** and **Player 2** — simple, fast, and fair.  
 
 ## 🏆 Player 1 Wins
